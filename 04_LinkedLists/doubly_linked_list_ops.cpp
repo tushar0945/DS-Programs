@@ -2,7 +2,7 @@
 // Problem: Doubly Linked List bidirectional operations
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-01-15
+// Solved on: 2024-03-09
 // ==========================================================================
 
 #include <iostream>
