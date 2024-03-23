@@ -2,7 +2,7 @@
 // Problem: Min Heap implementation with heapify and bubble-up
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-02-11
+// Solved on: 2024-03-23
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Min Heap implementation with heapify and bubble-up" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
