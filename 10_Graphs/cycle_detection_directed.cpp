@@ -2,7 +2,7 @@
 // Problem: Cycle detection in directed graph using recursion stack
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-02-15
+// Solved on: 2024-03-26
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Cycle detection in directed graph using recursion stack" << endl;
-    // Pass iteration #2
+    // Pass iteration #3
 }
 
 int main() {
