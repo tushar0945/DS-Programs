@@ -2,7 +2,7 @@
 // Problem: Coin Change problem for minimum coin count
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-02-19
+// Solved on: 2024-04-04
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Coin Change problem for minimum coin count" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
