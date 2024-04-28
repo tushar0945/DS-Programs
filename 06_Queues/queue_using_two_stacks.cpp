@@ -2,7 +2,7 @@
 // Problem: Queue implementation using two Stacks
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-03-14
+// Solved on: 2024-04-28
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Queue implementation using two Stacks" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
