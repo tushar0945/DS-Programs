@@ -2,7 +2,7 @@
 // Problem: Sliding Window Maximum using Deque
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-03-17
+// Solved on: 2024-04-28
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Sliding Window Maximum using Deque" << endl;
-    // Pass iteration #1
+    // Pass iteration #2
 }
 
 int main() {
