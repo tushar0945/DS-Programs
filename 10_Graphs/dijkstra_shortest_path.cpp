@@ -2,7 +2,7 @@
 // Problem: Dijkstra's Single Source Shortest Path using Priority Queue
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-03-27
+// Solved on: 2024-05-16
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Dijkstra's Single Source Shortest Path using Priority Queue" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
