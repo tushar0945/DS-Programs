@@ -2,7 +2,7 @@
 // Problem: Matrix Chain Multiplication cost minimization
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-04-07
+// Solved on: 2024-05-26
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Matrix Chain Multiplication cost minimization" << endl;
-    // Pass iteration #1
+    // Pass iteration #3
 }
 
 int main() {
