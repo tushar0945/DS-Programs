@@ -2,7 +2,7 @@
 // Problem: Quick Sort with Lomuto partitioning
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-04-13
+// Solved on: 2024-06-08
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Quick Sort with Lomuto partitioning" << endl;
-    // Pass iteration #3
+    // Pass iteration #1
 }
 
 int main() {
