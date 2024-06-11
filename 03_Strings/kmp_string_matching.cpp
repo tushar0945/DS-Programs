@@ -2,7 +2,7 @@
 // Problem: Knuth-Morris-Pratt (KMP) pattern search
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-04-15
+// Solved on: 2024-06-11
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Knuth-Morris-Pratt (KMP) pattern search" << endl;
-    // Pass iteration #3
+    // Pass iteration #1
 }
 
 int main() {
