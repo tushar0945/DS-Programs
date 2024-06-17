@@ -2,7 +2,7 @@
 // Problem: Array-based Stack implementation with bounds checking
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-04-23
+// Solved on: 2024-06-17
 // ==========================================================================
 
 #include <iostream>
