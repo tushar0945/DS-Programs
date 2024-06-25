@@ -2,7 +2,7 @@
 // Problem: Binary Tree Level Order Traversal using Queue
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-04-30
+// Solved on: 2024-06-25
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Binary Tree Level Order Traversal using Queue" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
