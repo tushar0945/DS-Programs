@@ -2,7 +2,7 @@
 // Problem: Validate Binary Search Tree using range limits
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-05-04
+// Solved on: 2024-06-30
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Validate Binary Search Tree using range limits" << endl;
-    // Pass iteration #1
+    // Pass iteration #2
 }
 
 int main() {
