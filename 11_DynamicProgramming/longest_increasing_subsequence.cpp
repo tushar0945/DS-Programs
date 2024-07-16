@@ -2,7 +2,7 @@
 // Problem: Longest Increasing Subsequence (LIS) with binary search O(N log N)
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-05-26
+// Solved on: 2024-07-16
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Longest Increasing Subsequence (LIS) with binary search O(N log N)" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
