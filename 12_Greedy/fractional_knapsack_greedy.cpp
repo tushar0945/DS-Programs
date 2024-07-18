@@ -2,7 +2,7 @@
 // Problem: Fractional Knapsack problem greedy approach
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-05-27
+// Solved on: 2024-07-18
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Fractional Knapsack problem greedy approach" << endl;
-    // Pass iteration #1
+    // Pass iteration #2
 }
 
 int main() {
