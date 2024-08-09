@@ -2,7 +2,7 @@
 // Problem: Binary Tree Inorder, Preorder, and Postorder traversals
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-06-24
+// Solved on: 2024-08-09
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Binary Tree Inorder, Preorder, and Postorder traversals" << endl;
-    // Pass iteration #3
+    // Pass iteration #1
 }
 
 int main() {
