@@ -2,7 +2,7 @@
 // Problem: Check Symmetric Tree and Invert Binary Tree
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-06-27
+// Solved on: 2024-08-17
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Check Symmetric Tree and Invert Binary Tree" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
