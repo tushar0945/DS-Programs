@@ -2,7 +2,7 @@
 // Problem: Find K-th smallest element in BST using Morris traversal
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-01
+// Solved on: 2024-08-20
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Find K-th smallest element in BST using Morris traversal" << endl;
-    // Pass iteration #1
+    // Pass iteration #2
 }
 
 int main() {
