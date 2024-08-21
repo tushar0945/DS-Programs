@@ -2,7 +2,7 @@
 // Problem: Merge K Sorted Arrays using Min Heap
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-02
+// Solved on: 2024-08-21
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Merge K Sorted Arrays using Min Heap" << endl;
-    // Pass iteration #3
+    // Pass iteration #2
 }
 
 int main() {
