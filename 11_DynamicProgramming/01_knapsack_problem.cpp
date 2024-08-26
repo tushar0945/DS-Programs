@@ -2,7 +2,7 @@
 // Problem: 0/1 Knapsack problem dynamic programming solution
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-12
+// Solved on: 2024-08-26
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: 0/1 Knapsack problem dynamic programming solution" << endl;
-    // Pass iteration #2
+    // Pass iteration #3
 }
 
 int main() {
