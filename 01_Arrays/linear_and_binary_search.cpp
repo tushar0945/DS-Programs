@@ -2,7 +2,7 @@
 // Problem: Linear and Binary Search algorithms
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-20
+// Solved on: 2024-09-01
 // ==========================================================================
 
 #include <iostream>
