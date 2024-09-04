@@ -2,7 +2,7 @@
 // Problem: Trapping Rain Water problem
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-21
+// Solved on: 2024-09-04
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Trapping Rain Water problem" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
