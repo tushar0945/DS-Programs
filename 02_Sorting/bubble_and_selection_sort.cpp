@@ -2,7 +2,7 @@
 // Problem: Bubble Sort and Selection Sort
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-24
+// Solved on: 2024-09-04
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Bubble Sort and Selection Sort" << endl;
-    // Pass iteration #1
+    // Pass iteration #3
 }
 
 int main() {
