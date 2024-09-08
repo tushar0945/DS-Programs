@@ -2,7 +2,7 @@
 // Problem: Insertion Sort with adaptive inner loop
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-24
+// Solved on: 2024-09-08
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Insertion Sort with adaptive inner loop" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
