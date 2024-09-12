@@ -2,7 +2,7 @@
 // Problem: Iterative and Recursive Linked List reversal
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-07-29
+// Solved on: 2024-09-12
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Iterative and Recursive Linked List reversal" << endl;
-    // Pass iteration #3
+    // Pass iteration #2
 }
 
 int main() {
