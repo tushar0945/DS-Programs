@@ -2,7 +2,7 @@
 // Problem: Binary Search Tree insertion and search methods
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-08-19
+// Solved on: 2024-09-25
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Binary Search Tree insertion and search methods" << endl;
-    // Pass iteration #1
+    // Pass iteration #3
 }
 
 int main() {
