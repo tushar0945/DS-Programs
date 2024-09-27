@@ -2,7 +2,7 @@
 // Problem: Delete node from Binary Search Tree with in-order successor
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-08-19
+// Solved on: 2024-09-27
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Delete node from Binary Search Tree with in-order successor" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
