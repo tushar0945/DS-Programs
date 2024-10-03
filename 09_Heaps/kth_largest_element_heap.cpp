@@ -2,7 +2,7 @@
 // Problem: Find Kth Largest Element using Priority Queue
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-08-21
+// Solved on: 2024-10-03
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Find Kth Largest Element using Priority Queue" << endl;
-    // Pass iteration #1
+    // Pass iteration #2
 }
 
 int main() {
