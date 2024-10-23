@@ -2,7 +2,7 @@
 // Problem: Matrix Chain Multiplication cost minimization
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-08-29
+// Solved on: 2024-10-23
 // ==========================================================================
 
 #include <iostream>
