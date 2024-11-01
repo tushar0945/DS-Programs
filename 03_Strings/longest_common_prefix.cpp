@@ -2,7 +2,7 @@
 // Problem: Longest Common Prefix across string array
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-09-09
+// Solved on: 2024-11-01
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Longest Common Prefix across string array" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
