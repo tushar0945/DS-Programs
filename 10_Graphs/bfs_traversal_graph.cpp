@@ -2,7 +2,7 @@
 // Problem: Breadth First Search (BFS) graph traversal
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-10-06
+// Solved on: 2024-11-28
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Breadth First Search (BFS) graph traversal" << endl;
-    // Pass iteration #1
+    // Pass iteration #2
 }
 
 int main() {
