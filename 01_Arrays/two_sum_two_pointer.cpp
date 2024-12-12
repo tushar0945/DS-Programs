@@ -2,7 +2,7 @@
 // Problem: Two Sum problem using two-pointer approach
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-10-26
+// Solved on: 2024-12-12
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Two Sum problem using two-pointer approach" << endl;
-    // Pass iteration #3
+    // Pass iteration #1
 }
 
 int main() {
