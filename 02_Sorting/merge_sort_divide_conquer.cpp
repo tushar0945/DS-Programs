@@ -2,7 +2,7 @@
 // Problem: Merge Sort divide and conquer algorithm
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-10-31
+// Solved on: 2024-12-17
 // ==========================================================================
 
 #include <iostream>
