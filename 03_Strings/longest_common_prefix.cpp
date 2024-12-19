@@ -2,7 +2,7 @@
 // Problem: Longest Common Prefix across string array
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-11-01
+// Solved on: 2024-12-19
 // ==========================================================================
 
 #include <iostream>
