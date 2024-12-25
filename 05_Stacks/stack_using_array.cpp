@@ -2,7 +2,7 @@
 // Problem: Array-based Stack implementation with bounds checking
 // Author: Tushar Patil (@tushar0945)
 // Language: C++17
-// Solved on: 2024-11-07
+// Solved on: 2024-12-25
 // ==========================================================================
 
 #include <iostream>
@@ -12,7 +12,7 @@ using namespace std;
 
 void solve() {
     cout << "Algorithm: Array-based Stack implementation with bounds checking" << endl;
-    // Pass iteration #2
+    // Pass iteration #1
 }
 
 int main() {
